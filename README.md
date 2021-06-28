@@ -3,7 +3,7 @@
 The corresponding paper, titled 'Finger Vein Verification using Intrinsic and Extrinsic Features' is accepted by the 2021 International Joint Conference on Biometrics (IJCB 2021)
 
 ## Abstraction
-The finger vein has attracted substantial attention due to the strong security. However, existing available-publicly datasets only consider the ideal case without offsets and rotations. To test the robustness against rotation of the fingers in vein verification, an in-house dataset with multiview finger vein images is established, denoted as MultiView-FV. One finger is captured by multiple cameras at the same time.Therefore, without alignment and rotation-specific operations, MultiView-FV provides a challenging benchmark finger vein dataset.
+The finger vein has attracted substantial attention due to the strong security. However, existing publicly-available datasets only consider the ideal case without offsets and rotations. To test the robustness against rotation of the fingers in vein verification, an in-house dataset with multiview finger vein images is established, denoted as MultiView-FV. One finger is captured by multiple cameras at the same time.Therefore, without alignment and rotation-specific operations, MultiView-FV provides a challenging benchmark finger vein dataset.
 
 ## Brief Description
 
