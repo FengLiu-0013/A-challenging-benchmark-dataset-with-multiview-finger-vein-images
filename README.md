@@ -9,7 +9,7 @@ The finger vein has attracted substantial attention due to the strong security. 
 
 The MultiView-FV dataset was acquired from the male and female volunteers in The Shenzhen University campus. This database has been largely acquired during Sept. 2018 to Dec. 2018 using a contactless imaging device shown as Fig 1, which can collect images from three angles(L.M.R.) at the same time The currently available database has 6480 images from the 135 subjects. The finger images were acquired in two separate sessions with a minimum interval of two months. In each session, each of the subjects provided 12 image samples from the index finger and middle finger respectively from both left-hand and right-hand. Therefore, each subject provided 48 images. All the images are in bitmap (*.bmp) format with the 1280 * 1024 pixel size
 
-![Fig.1 Device](./device.png)
+![Fig.1 Device](device.png)
 
 ## Sample Images
 
@@ -18,8 +18,8 @@ A: Collected from female
 B: Collected from male
 o: Collection from low-quality finger
 
-![Fig.2 sample2](./sample1.png)
-![Fig.3 sample3](./sample2.png)
+![Fig.2 sample2](sample1.png)
+![Fig.3 sample3](sample2.png)
 
 ## Download and Copyright
 
